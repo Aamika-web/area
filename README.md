@@ -21,8 +21,5 @@ class rectangle :
 
 
 A1 = rectangle(12,10)
-
-
-
 print(A1.area1())
 print(rectangle.square.area2)
